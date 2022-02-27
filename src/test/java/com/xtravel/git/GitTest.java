@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("by master");
         System.out.println("push text");
         System.out.println("push text2");
+        System.out.println("by github");
     }
 }
