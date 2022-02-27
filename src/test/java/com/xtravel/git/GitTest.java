@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("by hot-fix");
         System.out.println("by master");
         System.out.println("push text");
+        System.out.println("push text2");
     }
 }
